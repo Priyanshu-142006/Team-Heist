@@ -1,9 +1,14 @@
 # Team-Heist
-## Food Waste Redistribution & Surplus Routing Platform:
-Problem Statement:
-Large amounts of food are wasted daily by restaurants, grocery stores, caterers, and households due to overproduction or unsold inventory. At the same time, many people struggle to access affordable and nutritious food.
+## 🍱 Food Waste Redistribution System (Web App)
 
-This project aims to bridge that gap by creating a platform that redistributes surplus food efficiently to those in need.
+A smart platform designed to reduce food waste by connecting food donors (restaurants, stores, households) with receivers (NGOs, shelters, individuals) using efficient routing and real-time tracking.
 
-# Solution
-Our platform connects food donors (restaurants, stores, households) with receivers (NGOs, shelters, individuals) and ensures efficient food redistribution using smart routing and real-time tracking.
+## ✨ Features
+
+✔ Add surplus food listings
+✔ View available food nearby
+✔ Match donors with receivers
+✔ Smart routing for delivery
+✔ Expiry time tracking system
+✔ Dashboard for monitoring impact
+✔ Role-based system (Donor / Receiver / Volunteer)
