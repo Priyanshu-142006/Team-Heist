@@ -3,6 +3,11 @@
 
 A smart platform designed to reduce food waste by connecting food donors (restaurants, stores, households) with receivers (NGOs, shelters, individuals) using efficient routing and real-time tracking.
 
+## Website(BhojMap):
+
+### Website icon:
+"C:\Users\smrit\OneDrive\Documents\smriti documents\BhojMap.jpg.jpeg"
+
 ## ✨ Features:
 
 - ✔ Add surplus food listings.
