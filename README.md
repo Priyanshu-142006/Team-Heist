@@ -5,10 +5,10 @@ A smart platform designed to reduce food waste by connecting food donors (restau
 
 ## ✨ Features
 
-✔ Add surplus food listings
-✔ View available food nearby
-✔ Match donors with receivers
-✔ Smart routing for delivery
-✔ Expiry time tracking system
-✔ Dashboard for monitoring impact
-✔ Role-based system (Donor / Receiver / Volunteer)
+✔ Add surplus food listings.
+✔ View available food nearby.
+✔ Match donors with receivers.
+✔ Smart routing for delivery.
+✔ Expiry time tracking system.
+✔ Dashboard for monitoring impact.
+✔ Role-based system (Donor / Receiver / Volunteer).
