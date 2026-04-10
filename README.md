@@ -21,3 +21,10 @@ A smart platform designed to reduce food waste by connecting food donors (restau
 - APIs: Google maps,RazerPay.
 - Tools: Antigravity.
 - Hosting: Versel.
+
+## 🗂️ Database Structure:
+
+## 🚀 Future Improvements:
+- Real-time delivery tracking.
+- Smooth experience in the future.
+- Notifications & alerts system.
