@@ -29,3 +29,4 @@ A smart platform designed to reduce food waste by connecting food donors (restau
 - Real-time delivery tracking.
 - Smooth experience in the future.
 - Notifications & alerts system.
+- Future Donation Option.
