@@ -1,5 +1,5 @@
 # Team-Heist:
-## <img src="BhojMap.jpg" width="100"/> Food Waste Redistribution System Food Waste Redistribution System (Web App):
+## Food Waste Redistribution System Food Waste Redistribution System (Web App):
 
 A smart platform designed to reduce food waste by connecting food donors (restaurants, stores, households) with receivers (NGOs, shelters, individuals) using efficient routing and real-time tracking.
 
