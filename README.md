@@ -18,7 +18,7 @@ A smart platform designed to reduce food waste by connecting food donors (restau
 
 - Frontend: Nodejs, Javascript.
 - Backend: Superbase.
-- Database: Superbase.
+- Database: Supabase.
 - APIs: Google maps,RazerPay.
 - Tools: Antigravity.
 - Hosting: Versel.
